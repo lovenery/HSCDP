@@ -1,6 +1,6 @@
 # HSCDP
 
-- Python 3.6.x
+> High Speed Computing and Data Processing
 
 ## Build
 
@@ -21,4 +21,10 @@ deactivate
 virtualenv venv
 pip install jupyter
 pip freeze > requirements.txt
+```
+
+## Run
+
+```shell
+. venv/bin/activate; jupyter notebook;
 ```
