@@ -6,7 +6,7 @@
 
 ```
 git clone git@github.com:lovenery/HSCDP.git
-cd jupyter-practice/
+cd HSCDP/
 virtualenv venv
 . venv/bin/activate
 pip install -r requirements.txt
