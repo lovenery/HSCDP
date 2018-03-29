@@ -1,11 +1,11 @@
-# Jupyter Practice
+# HSCDP
 
 - Python 3.6.x
 
 ## Build
 
 ```
-git clone git@github.com:lovenery/jupyter-practice.git
+git clone git@github.com:lovenery/HSCDP.git
 cd jupyter-practice/
 virtualenv venv
 . venv/bin/activate
